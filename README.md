@@ -1,7 +1,7 @@
-(づ ◕‿◕ )づ SRCAG VOLUNTEER APPLICATION ~ https://www.srcag.net/letsworktogether 
+(づ ◕‿◕ )づ SRCAG VOLUNTEER APPLICATION ~ https://www.srcag.net
 
 - 👋 Hi, I’m @persianpersuasion
-- 👀 I’m the founder of srcag.net; a data analytics / publication focused 501c3 covering San Diego meant to use data and ML to promote the small business diaspora in San Diego
+- 👀 I’m the founder of srcag.net; a Machine Learning start-up covering San Diego meant to use data science techniques to promote the small business diaspora in San Diego
 - 🌱 I worked for the San Diego County Board of Supervisors for 3.5 years, where I lead operations for an outreach department
 - ✨ Currently, I work on strategic outreach and data science as part-time staff for Data Science Alliance
 - 💞️ I’m an undergrad at UC San Diego studying economics & dse, but have taken significant courseload in the ECE department. My favorite concentration is econometrics (big surprise)
