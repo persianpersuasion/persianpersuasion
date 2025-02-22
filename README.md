@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @persianpersuasion
 - 👀 I’m the founder of srcag.net; a data analytics / publication focused 501c3 covering San Diego meant to use data and ML to promote the small business diaspora in San Diego
 - 🌱 I worked for the San Diego County Board of Supervisors for 3.5 years, where I lead operations for an outreach department
+- ✨ Currently, I work on strategic outreach and data science as part-time staff for Data Science Alliance
 - 💞️ I’m an undergrad at UC San Diego studying economics & dse, but have taken significant courseload in the ECE department. My favorite concentration is econometrics (big surprise)
 - 📫 I'm Multimedia Editor for The Guardian at UCSD -> https://ucsdguardian.org/staff_name/mehri-sadri/
 - 😄 I code in Python & SQL now mostly, but have experience with Java, HTML, & C++ too
