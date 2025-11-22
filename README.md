@@ -1,7 +1,7 @@
-(づ ◕‿◕ )づ SRCAG VOLUNTEER APPLICATION ~ https://www.srcag.net
+(づ ◕‿◕ )づ SR.CAG srcagmlsolutionsusa.com
 
 - 👋 Hi, I’m Mehrirose, but people call me Mehri
-- 👀 I’m the founder of srcag.net; a Machine Learning start-up covering San Diego meant to use data science techniques to promote the small business diaspora in San Diego
+- 👀 I’m the founder of sr.cag; a Machine Learning start-up covering San Diego meant to use data science techniques to promote the small business diaspora in San Diego & Pittsburgh
 - 🌱 I worked for the San Diego County Board of Supervisors for 3.5 years, where I lead operations for an outreach department
 - ✨ I also worked on strategic outreach and data science as part-time staff for Data Science Alliance
 - 💋 I'm currently a graduate student at Carnegie Mellon getting my Master's in Data Analytics - Public Policy
